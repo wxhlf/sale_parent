@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sales_common" />
+        <module name="sales_dao" />
+        <module name="sales_manager_web" />
+        <module name="sales_pojo" />
+        <module name="sales_sellergoods_interface" />
+        <module name="sales_sellergoods_service" />
+        <module name="sales_shop_web" />
+        <module name="spring_secrity_demo" />
+        <module name="sqlgenerator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sale_parent" target="1.8" />
+      <module name="sales_common" target="1.8" />
+      <module name="sales_dao" target="1.8" />
+      <module name="sales_manager_web" target="1.8" />
+      <module name="sales_pojo" target="1.8" />
+      <module name="sales_sellergoods_interface" target="1.8" />
+      <module name="sales_sellergoods_service" target="1.8" />
+      <module name="sales_shop_web" target="1.8" />
+      <module name="spring_secrity_demo" target="1.8" />
+      <module name="sqlgenerator" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

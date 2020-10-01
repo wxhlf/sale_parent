@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+  <map key="path_4" value="service"/>
+  <map key="path_3" value="sellergoods"/>
+  <map key="package" value="com.sales.sellergoods.service"/>
+  <map key="path_2" value="sales"/>
+  <map key="dbpassword" value="root"/>
+  <map key="author" value="WFB"/>
+  <map key="projectComment" value="\u54c1\u4f18\u8d2d"/>
+  <map key="project" value="sales"/>
+  <map key="dbuser" value="root"/>
+  <map key="path_1" value="com"/>
+  <map key="db" value="pinyougoudb"/>
+  <map key="path_all" value="com/sales/sellergoods/service"/>
+</root>

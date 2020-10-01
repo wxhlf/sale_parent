@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sale_parent.iml" filepath="$PROJECT_DIR$/sale_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales_common/sales_common.iml" filepath="$PROJECT_DIR$/sales_common/sales_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales_dao/sales_dao.iml" filepath="$PROJECT_DIR$/sales_dao/sales_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales_manager_web/sales_manager_web.iml" filepath="$PROJECT_DIR$/sales_manager_web/sales_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales_pojo/sales_pojo.iml" filepath="$PROJECT_DIR$/sales_pojo/sales_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales_sellergoods_interface/sales_sellergoods_interface.iml" filepath="$PROJECT_DIR$/sales_sellergoods_interface/sales_sellergoods_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales_sellergoods_service/sales_sellergoods_service.iml" filepath="$PROJECT_DIR$/sales_sellergoods_service/sales_sellergoods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales_shop_web/sales_shop_web.iml" filepath="$PROJECT_DIR$/sales_shop_web/sales_shop_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_secrity_demo/spring_secrity_demo.iml" filepath="$PROJECT_DIR$/spring_secrity_demo/spring_secrity_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlgenerator_idea/sqlgenerator.iml" filepath="$PROJECT_DIR$/sqlgenerator_idea/sqlgenerator.iml" />
+    </modules>
+  </component>
+</project>
